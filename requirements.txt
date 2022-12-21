@@ -17,4 +17,4 @@
 
 aiohttp==3.7.2
 asyncio==3.4.3
-attrs==20.2.0
+attrs==22.2.0
